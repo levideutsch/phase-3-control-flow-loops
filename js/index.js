@@ -47,3 +47,5 @@ function reverseString(str) {
   }
   return reversedStr;
 }
+
+console.log(reverseString("blah"))
